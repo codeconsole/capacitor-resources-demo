@@ -20,6 +20,6 @@ The Splash Screen is configured to show for 5 seconds.
 Notice that the intial Splash Screen is blank.
 However, if you execute `SplashScreen.show()` (click on the Show Splash Screen button), the expected Splash Screen appears.
 
-Why is the initial Splasg Screen blank?
+Why is the initial Splash Screen blank?
 
 ![Android Pixel_3a_API_32_arm64-v8a Emulator](blank_emulator.png)
